@@ -3,7 +3,7 @@
 </p>
 
 
-# 💠[BotsApp]
+# 💠WhatsDevil
 > Your Personal Assisstant, on WhatsApp!
 ---
 
